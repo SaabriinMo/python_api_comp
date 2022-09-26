@@ -1,0 +1,23 @@
+[
+  {
+    "username": "Adamisfun12",
+    "password": "pythonIsmad2",
+    "email": "adamisfun@fun.com",
+    "DoB": "1999-01-19",
+    "creditcard": " "
+  },
+  {
+    "username": "rachel12",
+    "password": "pythonIsfun1",
+    "email": "rachiscool@fun.com",
+    "DoB": "1999-01-20",
+    "creditcard": "5555555555554444"
+  },
+  {
+    "username": "malikthefreak2",
+    "password": "pythonIsmad2",
+    "email": "malikthefreak@fun.com",
+    "DoB": "1999-06-01",
+    "creditcard": "4111111111111111"
+  }
+]
