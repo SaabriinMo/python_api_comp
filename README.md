@@ -7,7 +7,7 @@ You would need the following things to run my work:
 
 you will need a means to send an API request:
 
-1) Use cURL commands (see in Step 6)
+1) Use cURL commands { see in [Step 5:](#step-5) } 
 2) Install Visual Studio Code and use Thunder Client (steps are detailed)
 3) Install Postman
 
