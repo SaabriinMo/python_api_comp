@@ -58,7 +58,7 @@ You may want to install some extensions:
 
 {PS. Some extension may require you to restart visual studio, this is completely fine + no you won't have to redo step 1-3 again }
 
-## Step 4: 
+## Step 4: 
 
 For visual studio terminal you dont have to do this but for the terminal/command prompt, you need to find the file path to where python_glue is stored
 
